@@ -1,0 +1,63 @@
+1. Definición: ¿Qué es exactamente una declaración de accesibilidad?
+
+    Una Declaración de Accesibilidad es un documento público y estructurado donde una organización informa 
+    sobre el grado de cumplimiento de sus sitios web o aplicaciones móviles con los estándares de accesibilidad 
+    (generalmente la norma UNE-EN 301549).
+
+    No es solo una nota informativa; es un compromiso legal donde la entidad detalla qué partes del sitio no son 
+    accesibles, por qué razones, y ofrece mecanismos para que los usuarios puedan reportar fallos o solicitar 
+    información en formatos alternativos.
+
+2. Sujetos obligados: ¿Qué organizaciones están obligadas por ley?
+
+    En España, están obligadas las siguientes entidades:
+
+    Sector Público: Administraciones públicas (estatal, autonómica, local), organismos judiciales, fuerzas de 
+    seguridad, etc.
+
+    Entidades que reciban financiación pública: Organizaciones privadas cuya actividad esté financiada 
+    mayoritariamente por el sector público.
+
+    Empresas de servicios de especial trascendencia económica: Empresas con más de 100 trabajadores o una 
+    facturación superior a 6 millones de euros que operen en sectores como:
+
+    - Servicios bancarios y financieros.
+    - Transporte de viajeros.
+    - Suministros (agua, gas, electricidad).
+    - Comunicaciones electrónicas.
+
+3. Marco legal: ¿En qué Real Decreto se recoge la normativa?
+    La normativa de referencia en España es el Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad 
+    de los sitios web y aplicaciones para dispositivos móviles del sector público. Este decreto transpone la 
+    Directiva Europea (UE) 2016/2102.
+
+4. Investigación práctica
+    A. Localización de sitios web y URLs de la declaración:
+        Agencia Tributaria (AEAT): 
+        https://sede.agenciatributaria.gob.es/Sede/gl_es/condiciones-uso-sede-electronica/accesibilidad/declaracion-accesibilidad.html
+
+        Boletín Oficial del Estado (BOE): 
+        https://www.boe.es/informacion/accesibilidad/index.php
+
+        Ayuntamiento de Ourense: 
+        https://ourense.gal/es/infoweb/accesibilidad
+
+    B. Análisis y resumen: Apartados en común
+
+        Tras analizar las tres declaraciones, se observa que siguen un modelo europeo normalizado. Los puntos 
+        comunes obligatorios son:
+
+        - Situación de cumplimiento: Indican si el sitio es "plenamente conforme", "parcialmente conforme" (lo más 
+        habitual) o "no conforme" con el RD 1112/2018.
+
+        - Contenido no accesible: Un listado detallado de las partes del sitio que fallan, clasificadas por: falta 
+        de conformidad, carga desproporcionada o contenido fuera del ámbito legal.
+
+        - Preparación de la declaración: Fecha en la que se realizó la última revisión y el método empleado 
+        (autoevaluación o auditoría externa).
+
+        - Mecanismo de comunicación: Un formulario o vía de contacto para que el usuario pueda notificar quejas 
+        o sugerencias sobre accesibilidad.
+
+        - Procedimiento de aplicación: El proceso de reclamación en caso de que la respuesta a una queja no sea 
+        satisfactoria (el siguiente paso administrativo).

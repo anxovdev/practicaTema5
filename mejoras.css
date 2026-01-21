@@ -1,0 +1,33 @@
+h1.t1 {
+    color: #444444 !important; /* Un gris oscuro que garantiza el ratio de contraste AA */
+}
+
+h2.t2 {
+    color: #ffffff !important;           /* Texto blanco */
+    background-color: #5d6d15 !important; /* Oscurecemos el fondo verde para superar el 4.5:1 */
+    padding-left: 10px;                  
+}
+
+/* Aseguramos que se aplique a las otras secciones si comparten estilo */
+#datos h2.t2, #garantias h2.t2 {
+    background-color: #5d6d15 !important;
+}
+
+#info_en {
+    font-size: 1rem !important; /* Equivalente a 16px, el estándar de lectura */
+    color: #333333 !important;  /* Aseguramos también un buen contraste */
+    display: block;
+    margin-top: 10px;           /* Espaciado para evitar amontonamiento */
+}
+
+/* Eliminación de texto justificado para mejorar la legibilidad (Nivel AA) */
+#garantias p, 
+#articulos p,
+.lista {
+    text-align: left !important;
+    line-height: 1.5 !important; /* Mejora el espaciado entre líneas */
+}
+
+h3.t3 {
+    color: #333333 !important; /* Gris oscuro con alto contraste sobre blanco */
+}
